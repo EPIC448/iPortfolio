@@ -5,3 +5,14 @@
  What Features do I want to add to this Company
   User focused.  Of course we will switch out this sites and See what else i improve on the site. 
    If i want to build extra features into it. \
+
+
+   ---------------
+  Use For Imaged Linked.
+   <a href="https://www.qries.com/">
+         <img alt="Qries" src="https://www.qries.com/images/banner_logo.png"
+         width=150" height="70">
+      </a>
+
+
+   -------------
