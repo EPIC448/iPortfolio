@@ -16,3 +16,7 @@
 
 
    -------------
+
+   I want to include Techture page. 
+
+   http://techuture.com/about/
