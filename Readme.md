@@ -24,3 +24,4 @@
    I want to add other Feature to this projects.... 
 
    Change some of the pictures.
+   We need to change the Alex smith. parts
