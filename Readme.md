@@ -22,3 +22,5 @@
    http://techuture.com/about/
 
    I want to add other Feature to this projects.... 
+
+   Change some of the pictures.
