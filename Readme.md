@@ -24,6 +24,6 @@
    I want to add other Feature to this projects.... 
 
    Change some of the pictures.
-   We need to change the Alex smith. parts
+  √ We need to change the Alex smith. parts
    Out line what picture connect  to what link... And use those instead.
    Add some costumer reviews for the testmional part of the project.
