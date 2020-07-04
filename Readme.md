@@ -1,29 +1,38 @@
- This Will out line the Knight Project. 
 
- Remove all BootStraps indicators where it needed 
+**Portfolio**
+ ![](https://media.giphy.com/media/xUA7b2sy5apYCfqhk4/giphy.gif)
 
- What Features do I want to add to this Company
-  User focused.  Of course we will switch out this sites and See what else i improve on the site. 
-   If i want to build extra features into it. \
-
-
-   ---------------
-  Use For Imaged Linked.
-   <a href="https://www.qries.com/">
-         <img alt="Qries" src="https://www.qries.com/images/banner_logo.png"
-         width=150" height="70">
-      </a>
+**Motivation**
+A quick Snaptshot of who Samuel.O is as a developer, Scitentist, Traveler, Musician, and Dancer. 
+ If there is anything speaking different languages has thought me, it would be 
+ ***each of us can be the change we seek in the world***
+  so what is stopping you?
 
 
-   -------------
+**Commiting to Git hub**
 
-   I want to include Techture page. 
+ *If your feeling creative and want to add something Sweet to the app?*
 
-   http://techuture.com/about/
+[ ]Open the terminal.
+[ ]Change the current working directory to your local repository to where you want to clone the app.
 
-   I want to add other Feature to this projects.... 
+[ ] Clonet the app from Github, onces your done.
 
-   Change some of the pictures.
-  √ We need to change the Alex smith. parts
-   √ Out line what picture connect  to what link... And use those instead.
-   Add some costumer reviews for the testmional part of the project.
+[ ] Make sure to create a branch in the process.
+
+[ ]Commit the file that you've staged in your local repository.
+
+[ ] $ git commit -m "Add existing file" Push the changes in your local repository to GitHub.
+
+[ ]$ git push origin branch-name.
+
+
+**Contact Information**
+
+*Blog Post*
+
+[Personal Website](http://techuture.com/about/)
+
+*LinkedIn*
+
+ [LinkedIn](https://www.linkedin.com/in/samuel48/)
