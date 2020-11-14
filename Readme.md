@@ -3,9 +3,10 @@
  ![](https://media.giphy.com/media/xUA7b2sy5apYCfqhk4/giphy.gif)
 
 **Motivation**
-A quick Snaptshot of who Samuel.O is as a developer, Scitentist, Traveler, Musician, and Dancer. 
+A quick Snaptshot of who Samuel.O is as a Product Manager, Developer, Scientist, Traveler, Musician, and Dancer. 
  If there is anything speaking different languages has thought me, it would be 
  ***each of us can be the change we seek in the world***
+  
   so what is stopping you?
 
 
